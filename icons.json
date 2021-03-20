@@ -1,0 +1,36 @@
+{
+  "icons": [
+    {
+      "name": "My Icons",
+      "source": "OI",
+      "extension": "png",
+      "count": 196,
+      "author": "Reddit",
+      "authorUrl": "https://reddit.com"
+    },
+    {
+      "name": "For Designers",
+      "source": "FD",
+      "extension": "png",
+      "count": 41,
+      "author": "Minhee Yoon",
+      "authorUrl": "https://dribbble.com/miniY"
+    },
+    {
+      "name": "Minimal Notion Icons Colored",
+      "source": "MNIC",
+      "extension": "png",
+      "count": 214,
+      "author": "Minimal Notion Icons",
+      "authorUrl": "https://www.notion.so/Minimal-Notion-Icons-a6735b20d07a4ed5a04ef2538170f423"
+    },
+    {
+      "name": "Minimal Notion Icons Monochromatic",
+      "source": "MNIM",
+      "extension": "png",
+      "count": 214,
+      "author": "Minimal Notion Icons",
+      "authorUrl": "https://www.notion.so/Minimal-Notion-Icons-a6735b20d07a4ed5a04ef2538170f423"
+    }
+  ]
+}

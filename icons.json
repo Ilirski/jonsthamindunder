@@ -2,35 +2,22 @@
   "icons": [
     {
       "name": "My Icons",
-      "source": "OI",
+	  "source": "OI",
+      "sourceUrl": "https://vyshnav.xyz/blog/notion-icons-3-0",
       "extension": "png",
-      "count": 50,
-      "author": "Reddit",
+      "count": 98,
+      "author": "Vyshnav Gangadharan",
       "authorUrl": "https://reddit.com"
     },
     {
-      "name": "For Designers",
-      "source": "FD",
+      "name": "My Icons 2",
+      "source": "OI2",
+	  "sourceUrl": "https://raw.githubusercontent.com/Ilirski/jonsthamindunder/main/OI2",
       "extension": "png",
-      "count": 41,
-      "author": "Minhee Yoon",
-      "authorUrl": "https://dribbble.com/miniY"
-    },
-    {
-      "name": "Minimal Notion Icons Colored",
-      "source": "MNIC",
-      "extension": "png",
-      "count": 214,
-      "author": "Minimal Notion Icons",
-      "authorUrl": "https://www.notion.so/Minimal-Notion-Icons-a6735b20d07a4ed5a04ef2538170f423"
-    },
-    {
-      "name": "Minimal Notion Icons Monochromatic",
-      "source": "MNIM",
-      "extension": "png",
-      "count": 214,
-      "author": "Minimal Notion Icons",
-      "authorUrl": "https://www.notion.so/Minimal-Notion-Icons-a6735b20d07a4ed5a04ef2538170f423"
-    }
+      "count": 94,
+      "author": "Vyshnav Gangadharan",
+      "authorUrl": "https://vyshnav.xyz/blog/notion-icons-3-0"
+	}
   ]
 }
+
